@@ -13,9 +13,9 @@ Installation Steps:
 
     > Choose Typical, ISO, Credentials, 20Gb.
 
-4) Download script via ``git clone https://github.com/alexoiko/AUTh_F1Tenth_Workshop.git``
+4) Open terminal, e.g. Ctrl+Alt+T shortcut
 
-5) Open terminal, e.g. Ctrl+Alt+T shortcut
+5) Download script via ``git clone https://github.com/alexoiko/AUTh_F1Tenth_Workshop.git``
 
 6) Change permission ``chmod +x setup_f1_auth.bash``
 
