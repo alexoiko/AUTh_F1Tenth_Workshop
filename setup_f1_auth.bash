@@ -22,7 +22,9 @@ echo " >>>>>> Install F1/10 Simulator"
 echo " "
 sudo apt -y install ros-melodic-tf2-geometry-msgs ros-melodic-ackermann-msgs ros-melodic-joy ros-melodic-map-server
 ##turtesim — already installed #sudo apt -y install ros-melodic-turtlesim
-mkdir -p ~/catkin_ws/src cd ~/catkin_ws/src catkin_init_workspace
+mkdir -p ~/catkin_ws/src 
+cd ~/catkin_ws/src 
+catkin_init_workspace
 git clone https://github.com/f1tenth/f1tenth_simulator.git
 #git clone https://github.com/mit-racecar/particle_filter
 #git clone https://github.com/kctess5/range_libc
