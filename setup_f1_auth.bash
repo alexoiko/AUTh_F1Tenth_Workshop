@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 echo " "
 echo " >>>>>> This is the beginning of the script for the installation of ROS and F1/10 simulator."
