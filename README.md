@@ -5,7 +5,8 @@ Installation Steps:
 ---
 
 1) Download **Ubuntu 18.04** ISO file from [https://releases.ubuntu.com/18.04.6/](https://releases.ubuntu.com/18.04.6/)
-(Desktop, ISO image, 64bit)
+
+    > Desktop, ISO image, 64bit
 
 2) Download and Install a **Virtual Machine**, e.g. Vmware Workstation [Download for Windows](https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html)
 
