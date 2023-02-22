@@ -2,6 +2,7 @@ AUTh F1TENTH Workshop 22-February-2023
 ===
 
 Installation Steps:
+---
 
 1) Download **Ubuntu 18.04** ISO file from [(https://releases.ubuntu.com/18.04.6/](https://releases.ubuntu.com/18.04.6/)
 (Desktop, ISO image, 64bit)
@@ -10,7 +11,7 @@ Installation Steps:
 
 3) Create new virtual machine (use wizard).
 
-> Choose Typical, ISO, Credentials, 20Gb.
+    > Choose Typical, ISO, Credentials, 20Gb.
 
 4) Download script via ``git clone https://github.com/alexoiko/AUTh_F1Tenth_Workshop.git``
 
@@ -18,4 +19,4 @@ Installation Steps:
 
 6) Change permission ``chmod +x setup_f1_auth.bash``
 
-7) Run Script, e.g. `bash setup_f1_auth.bash``
+7) Run Script, e.g. ``bash setup_f1_auth.bash``
