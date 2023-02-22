@@ -15,9 +15,9 @@ Installation Steps:
 
 4) Open terminal, e.g. Ctrl+Alt+T shortcut
 
-5) Download script via ``git clone https://github.com/alexoiko/AUTh_F1Tenth_Workshop.git``
-6) `cp AUTh_F1Tenth_Workshop/setup_f1_auth.bash .`
+5) `sudo apt install git`
+6)  Download script via ``git clone https://github.com/alexoiko/AUTh_F1Tenth_Workshop.git``
+7) `cp AUTh_F1Tenth_Workshop/setup_f1_auth.bash .`
 
-6) Change permission ``chmod +x setup_f1_auth.bash``
-
-7) Run Script, e.g. ``bash setup_f1_auth.bash``
+8) Change permission ``chmod +x setup_f1_auth.bash``
+9) Run Script, e.g. ``bash setup_f1_auth.bash``
