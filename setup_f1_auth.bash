@@ -4,7 +4,6 @@ echo " "
 echo " >>>>>> This is the beginning of the script for the installation of ROS and F1/10 simulator."
 
 # ROS installation
-
 echo " "
 echo " >>>>>> Setup source list, keys"
 echo " "
@@ -19,7 +18,6 @@ echo " >>>>>> Install ROS Melodic & Dependencies"
 echo " "
 
 sudo  apt -y install ros-melodic-desktop-full
- 
 echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 
@@ -49,7 +47,6 @@ cd ~/catkin_ws
 catkin_make #install
 source devel/setup.bash
 echo "source ~/catkin_ws/devel/setup.bash" >> ~/.bashrc
- 
 
 echo " "
 echo "Run F1/10 Simulator"
