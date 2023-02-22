@@ -1,4 +1,3 @@
-sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
 AUTh F1TENTH Workshop 22-February-2023
 ===
 
